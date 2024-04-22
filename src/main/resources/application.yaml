@@ -1,0 +1,6 @@
+spring:
+  ai:
+    openai:
+      api-key: '<your-key>'
+      chat:
+        model: 'gpt-3.5-turbo'
